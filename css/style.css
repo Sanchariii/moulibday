@@ -29,7 +29,7 @@
   text-align: center;
   color: black;
 }
-.riya{
+.mouli{
   
   text-align: center;
   
@@ -181,7 +181,9 @@ img {
   -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .3);
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, .3);
 }
-
+.increase{
+  font-size: xx-large;
+}
 
 .polaroids ul li a.shake {
   -webkit-animation-duration: 4500ms;
